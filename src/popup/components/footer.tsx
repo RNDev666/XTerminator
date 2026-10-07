@@ -24,7 +24,7 @@ const Footer = () => {
         <Tooltip title="Visit GitHub Repository" placement="top">
           <IconButton
             component="a"
-            href="https://github.com/bezalel6/XTerminator"
+            href="https://github.com/RNDev666/XTerminator"
             target="_blank"
             disableRipple
             aria-label="GitHub Repository"

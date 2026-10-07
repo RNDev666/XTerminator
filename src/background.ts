@@ -4,7 +4,7 @@ import { ExtensionMessage, ExtensionSettings, Source, UpdatePolicy } from './typ
 import { getAllIconPaths } from './lib/themeing';
 
 const makeUpdateURL = (source: Source = Source.MAIN) =>
-  `https://raw.githubusercontent.com/bezalel6/XTerminator/refs/heads/${source}/public/data/constants.json`;
+  `https://raw.githubusercontent.com/RNDev666/XTerminator/refs/heads/${source}/public/data/constants.json`;
 
 // Function to fetch and update JSON data
 async function fetchAndUpdateJson() {

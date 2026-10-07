@@ -10,7 +10,7 @@ import React, { useEffect, useState } from "react";
 import { Source } from "../../types";
 import { Setting } from "./popup-component";
 import UpdateButton from "./update-button";
-const BRANCHES = "https://api.github.com/repos/bezalel6/XTerminator/branches";
+const BRANCHES = "https://api.github.com/repos/RNDev666/XTerminator/branches";
 const fetchBranches = async () => {
   return fetch(BRANCHES)
     .then((r) => r.json() as unknown as { name: string }[])

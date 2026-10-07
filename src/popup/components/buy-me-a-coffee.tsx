@@ -6,8 +6,8 @@ const Button = styled.a`
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  background-color: #ffdd00;
-  color: #000000;
+  background-color: #29abe0;
+  color: #ffffff;
   padding: 8px 16px;
   border-radius: 8px;
   text-decoration: none;
@@ -105,10 +105,10 @@ const CoffeeIcon = () => (
 
 const BuyMeACoffee = () => {
   return (
-    <Tooltip title="Buy me a coffee">
+    <Tooltip title="Support me on Ko-fi">
       <Button
         style={{ overflow: "hidden" }}
-        href="https://www.buymeacoffee.com/RNDev"
+        href="https://ko-fi.com/rndev666"
         target="_blank"
         rel="noopener noreferrer"
       >

@@ -51,7 +51,7 @@
 2. **Install from Source:**
    - Clone this repository:
      ```bash
-     git clone https://github.com/bezalel6/XTerminator.git
+     git clone https://github.com/RNDev666/XTerminator.git
      ```
    - Open Chrome and navigate to `chrome://extensions/`
    - Enable "Developer mode" at the top right corner
@@ -87,6 +87,12 @@ XTerminator keeps your data private:
 ## Contributing
 
 Help make XTerminator better - contributions are welcome.
+
+## Support
+
+If this project is useful to you, you can support my work on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rndev666)
 
 ## License
 
